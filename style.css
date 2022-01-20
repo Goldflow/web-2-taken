@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+    color: royalblue;
+}
+body {
+    background-color: gold;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    color: whitesmoke;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 18px;
+    background-color: royalblue;
+}
+
+li:hover {
+    background-color: whitesmoke;
+    color: royalblue;
+}
+
+a {
+    color: gold;
+}
+
+
+a:hover {
+    color: royalblue;
+}
