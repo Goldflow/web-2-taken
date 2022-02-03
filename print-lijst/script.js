@@ -6,7 +6,7 @@ var objectVoorbeeld1 = { eigenSchap: "hallo", soort: "object" };
 // als je verschillende objecten maakt, zorg dat elk een andere naam heeft
 var objectVoorbeeld2 = { eigenSchap: "hallo", soort: "object" };
 // lijst maken van alle objecten (maar moeten er 3 zijn dus dit is niet goed)
-var lijstObjecten = [objectVoorbeeld1, objectVoorbeeld2];
+let lijstObjecten = [objectVoorbeeld1, objectVoorbeeld2];
 // alle objecten uitprinten - druk op F12 om developer tools te zien,
 for (let object of lijstObjecten) {
     // afhankelijk van als je artiest of voetballer hebt gekozen, kan je hier ofwel
