@@ -1,18 +1,26 @@
-/*
 body {
-    animation: myanimation 10s infinite;
-  }
-  
-  
-  @keyframes myanimation {
-    0% {background-color: yellowgreen;}
-    25%{background-color:rgb(255, 255, 137);}
-    50%{background-color:lightgreen;}
-    75%{background-color:lightgoldenrodyellow;}
-    100% {background-color: yellowgreen;}
-  }
-  */
+  animation: myanimation 10s infinite;
+}
 
-  body {
-      background-color: yellowgreen;
+
+@keyframes myanimation {
+  0% {
+    background-color: yellowgreen;
   }
+
+  25% {
+    background-color: rgb(255, 255, 137);
+  }
+
+  50% {
+    background-color: lightgreen;
+  }
+
+  75% {
+    background-color: lightgoldenrodyellow;
+  }
+
+  100% {
+    background-color: yellowgreen;
+  }
+}
