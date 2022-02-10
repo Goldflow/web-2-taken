@@ -1,3 +1,4 @@
+'use strict';
 // dus we maken een lijst van op zijn minst 3 mensen (artiesten, voetballers of filmsterren)
 // elk object met 3 key's hebben (dus 3 verschillende relevante eigenschappen)
 // bv naam, leeftijd, genre voor artiest, of naam, leeftijd, ploeg voor voetballer
