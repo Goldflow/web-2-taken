@@ -11,7 +11,7 @@ let getal2 = prompt('geef het 2e getal');
 let isGetal1KleinerDanGetal2 = getal1 < getal2; //dit geeft als resultaat true or false
 //bij 'if' we controleren of het juist of onjuist is
 if (isGetal1KleinerDanGetal2) {
-    // dit voeren we uit indien juist
+    // dit voeren we uit indien juist 
     alert('Getal 1 is kleiner dan getal 2');
 } else {
     // dit voeren we uit indien fout
