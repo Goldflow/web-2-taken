@@ -13,6 +13,14 @@ p {
 }
 
 /** onderstaande styling mag gerust verwijderd worden **/
+.menu a {
+  
+}
+
+.menu a:hover {
+  color: white;
+  background-color: rgb(199, 132, 51);
+}
 
 .menu a:visited {
   color: rgb(116, 29, 29);
